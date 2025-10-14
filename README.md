@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GitHub Commands Test
 
 A sandbox repository for experimenting with Git and GitHub command line workflows.  
@@ -13,3 +14,7 @@ Use this repo to practice commands like branching, merging, rebasing, and pushin
 ```bash
 git clone https://github.com/xNomadx1/Github-commands-test.git
 cd Github-commands-test
+=======
+# Github-commands-test
+A sandbox repository for experimenting with Git command line workflows, including branching, merging, rebasing, commits, and GitHub integration
+>>>>>>> origin/main
